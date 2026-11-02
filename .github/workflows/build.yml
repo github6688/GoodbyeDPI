@@ -13,7 +13,7 @@ env:
   WINDIVERT_URL: https://github.com/basil00/WinDivert/releases/download/v2.2.2/WinDivert-2.2.2-A.zip
   WINDIVERT_NAME: WinDivert-2.2.2-A.zip
   WINDIVERT_BASENAME: WinDivert-2.2.2-A
-  WINDIVERT_SHA256: fdf3dfbb101e19485bb24a0d922bb036495db4b7c62d08a9010db9036f01487b
+  WINDIVERT_SHA256: 63cb41763bb4b20f600b6de04e991a9c2be73279e317d4d82f237b150c5f3f15
 
 jobs:
   build:
